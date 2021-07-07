@@ -20,7 +20,7 @@ This flutter application is implemented whatsApp UI.
 
 ## Picture
 
-# Dark & Light modes
+### Dark & Light modes
 
 <img src="https://github.com/Insha-Siddiquii/flutter-whatsApp-ui/blob/master/snaps/Screenshot_1625670049.png"  height="550"> <img src="https://github.com/Insha-Siddiquii/flutter-whatsApp-ui/blob/master/snaps/Screenshot_1625670053.png"  height="550">
 
