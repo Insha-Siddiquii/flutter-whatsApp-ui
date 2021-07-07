@@ -16,11 +16,13 @@ This flutter application is implemented whatsApp UI.
 
 ## GIF
 
-<img src="https://github.com/Insha-Siddiquii/flutter-youtube-ui/blob/master/youtube.gif"  height="550">
+<img src="https://github.com/Insha-Siddiquii/flutter-whatsApp-ui/blob/master/snaps/whatsapp.gif"  height="550">
 
 ## Picture
 
-<img src="https://github.com/Insha-Siddiquii/flutter-youtube-ui/blob/master/youtube_ss.png"  height="550"> <img src="https://github.com/Insha-Siddiquii/flutter-youtube-ui/blob/master/youtube_ss.png"  height="550">
+# Dark & Light modes
+
+<img src="https://github.com/Insha-Siddiquii/flutter-whatsApp-ui/blob/master/snaps/Screenshot_1625670049.png"  height="550"> <img src="https://github.com/Insha-Siddiquii/flutter-whatsApp-ui/blob/master/snaps/Screenshot_1625670053.png"  height="550">
 
 ## Next Release
 
